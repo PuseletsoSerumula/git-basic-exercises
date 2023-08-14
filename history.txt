@@ -1,0 +1,500 @@
+   49  nano README.md
+   50  ls
+   51  cat README.md
+   52  cd ..
+   53  git status
+   54  nano .gitignore
+   55  git status
+   56  git add .gitignore
+   57  git commit -m "added .gitignore"
+   58  git push
+   59  exit
+   60  git clone https://github.com/Umuzi-org/Puseletso-Serumula-429-bootcamp-writing-assignment-markdown.git
+   61  ls
+   62  exit
+   63  ls
+   64  cd Music
+   65  ls
+   66  git clone https://github.com/Umuzi-org/Puseletso-Serumula-429-bootcamp-writing-assignment-markdown.git
+   67  ls
+   68  cd Puseletso-Serumula-429-bootcamp-writing-assignment-markdown/
+   69  ls
+   70  cat README.md
+   71  clear
+   72  ls
+   73  vi question_1.md
+   74  vi question_2.md
+   75  vi question3_.md
+   76  vi question_4.md
+   77  rm question_4.md
+   78  ls
+   79  rm question3_.md
+   80  ls
+   81  clear
+   82  ls
+   83  vi question_3.md
+   84  vi question_4.md
+   85  vi question_5.md
+   86  vi question_6.md
+   87  vi question_7.md
+   88  vi question_8.md
+   89  vi question_9.md
+   90  vi question_10.md
+   91  vi question_11.md
+   92  vi question_1.md
+   93  vi question_2.md
+   94  vi question_3.md
+   95  vi question_4.md
+   96  vi question_5.md
+   97  vi question_6.md
+   98  vi question_7.md
+   99  vi question_8.md
+  100  vi question_9.md
+  101  vi question_9.md
+  102  vi question_8.md
+  103  vi question_9.md
+  104  vi question_10.md
+  105  vi question_11.md
+  106  ls
+  107  clear
+  108  ls
+  109  git add .
+  110  git status
+  111  git commit -m "About me"
+  112  git push -- set upstream origin main
+  113  git push origin main
+  114  exit
+  115  ls
+  116  cd Music
+  117  ls
+  118  git clone https://github.com/Umuzi-org/Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-.git
+  119  ls
+  120  cd Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-/
+  121  ls
+  122  cat README.md
+  123  clear
+  124  ls
+  125  cat important.md 
+  126  git checkout -b my-third-branch
+  127  vi README.md
+  128  vi important.md 
+  129  git add important.md 
+  130  git commit -m "fixed my error"
+  131  git status
+  132  git commit -m "fixed error"
+  133  git status
+  134  git add important.md
+  135  git status
+  136  git commit -m "fixed my mistake"
+  137  git statu
+  138  clear
+  139  vi important.md 
+  140  git statu
+  141  clear
+  142  git status
+  143  ls
+  144  git add important.md 
+  145  ls
+  146  git status
+  147  clear
+  148  exit
+  149  cd Music
+  150  ls
+  151  git clone https://github.com/Umuzi-org/Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-.git
+  152  ls
+  153  cd Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-/
+  154  ls
+  155  cat README.md
+  156  cat important.md 
+  157  git checkout -b my-third-branch
+  158  ls
+  159  vi important.md 
+  160  git add important.md 
+  161  git status 
+  162  git commit -m "fixed my mistake"
+  163  git push origin my-third-branch
+  164  exit
+  165  cd Music/
+  166  ls
+  167  cd Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-/
+  168  ls
+  169  cat important.md 
+  170  vi important.md 
+  171  git diff
+  172  git add important.md 
+  173  git status
+  174  git commit -m "updated text"
+  175  git push origin my-third-branch 
+  176  exit
+  177  ls
+  178  cd Desktop
+  179  ls
+  180  cd kagiso/
+  181  ls
+  182  git https://github.com/Umuzi-org/Puseletso-Serumula-429-bootcamp-writing-assignment-markdown.git
+  183  cd /Puseletso-Serumula-429-bootcamp-writing-assignment-markdown.git
+  184  ls
+  185  exit
+  186  cd Github/
+  187  ls
+  188  cd Desktop/
+  189  ls
+  190  cd Github
+  191  ls
+  192  git clone https://github.com/Umuzi-org/Puseletso-Serumula-429-bootcamp-writing-assignment-markdown.git
+  193  ls
+  194  cd Puseletso-Serumula-429-bootcamp-writing-assignment-markdown/
+  195  ls
+  196  vi question_1.md
+  197  vi question_2.md
+  198  vi question_3.md
+  199  vi question_4.md
+  200  vi question_5.md
+  201  vi question_6.md
+  202  vi question_7.md
+  203  vi question_8.md
+  204  vi question_9.md
+  205  vi question_10.md
+  206  vi question_11.md
+  207  vi question_1.md
+  208  vi question_2.md
+  209  vi question_3.md
+  210  vi question_4.md
+  211  vi question_5.md
+  212  vi question_6.md
+  213  vi question_7.md
+  214  vi question_8.md
+  215  vi question_9.md
+  216  vi question_10.md
+  217  vi question_11.md
+  218  git status
+  219  git add .
+  220  git status
+  221  git commit -m "added headings"
+  222  git push origin main
+  223  exit
+  224  cd Desktop/
+  225  cd Github/
+  226  ls
+  227  git clone https://github.com/Umuzi-org/Puseletso-Serumula-219-level-1-programming-katas-javascript.git
+  228  ls
+  229  cd Puseletso-Serumula-429-bootcamp-writing-assignment-markdown/
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd Puseletso-Serumula-219-level-1-programming-katas-javascript/
+  234  ls
+  235  cat README.md
+  236  clear
+  237  git checkout main
+  238  git pull
+  239  git checkout -b task/1
+  240  mkdir task1.js
+  241  cd task1.js/
+  242  pwd
+  243  nano task1.js
+  244  cat task1.js 
+  245  nano task1.js 
+  246  cat task1.js 
+  247  git add task1.js 
+  248  git status
+  249  git commit -m "my initial task1 commit"
+  250  git status
+  251  exit
+  252  cd Desktop/
+  253  cd Music/
+  254  ls
+  255  cd ..
+  256  ls
+  257  cd Music/
+  258  ls
+  259  clear
+  260  ls
+  261  cd ..
+  262  ls
+  263  cd Deskot/
+  264  cd Desktop/
+  265  ls
+  266  cd Github/
+  267  ls
+  268  git clone https://github.com/Umuzi-org/Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-.git
+  269  ls
+  270  cd Puseletso-Serumula-606-tilde-project-tutorial-how-repo-projects-work-/
+  271  ls
+  272  git branch
+  273  git branch -a
+  274  git checkout myithird-branchgit checkout my-third-branch
+  275  clear
+  276  exit
+  277  cd Desktop/
+  278  cd vs code filels
+  279  ls
+  280  cd 'vs code files'/
+  281  ls
+  282  clear
+  283  ls
+  284  git clone https://github.com/PuseletsoSerumula/git-basic-exercises.git
+  285  ls
+  286  cd git-basic-exercises/
+  287  ls
+  288  git branch
+  289  git branch -a
+  290  git checkout history 
+  291  ls
+  292  rmdir milkshakes.md 
+  293  cat milkshakes.md 
+  294  rm milkshakes.md 
+  295  ls
+  296  git status
+  297  git add .
+  298  git status
+  299  git commit -m "removed milkshakes file"
+  300  git push origin history
+  301  exit
+  302  ls
+  303  cd Music/
+  304  ls
+  305  cd git-basic-exercises/
+  306  ls
+  307  clear
+  308  ls
+  309  vi README.md
+  310  cat README.md
+  311  vi README.md
+  312  git branch -a
+  313  git checkout history 
+  314  ls
+  315  rm milkshakes.md 
+  316  ls
+  317  cat README.md
+  318  git checkout master 
+  319  git checkout history 
+  320  ls
+  321  git status
+  322  git add .
+  323  git commit -m "updated"
+  324  ls
+  325  cat README.md
+  326  git checkout master
+  327  ls
+  328  cat README.md 
+  329  vi README.md 
+  330  cat README.md 
+  331  git checkout milkshake-flavours 
+  332  git status
+  333  git add README.md 
+  334  git status
+  335  git commit -m "updated readme"
+  336  ls
+  337  cat README.md 
+  338  git checkout milkshake-flavours 
+  339  ls
+  340  cat README.md 
+  341  git checkout master 
+  342  ls
+  343  git push origin master
+  344  git checkout milkshake-flavours 
+  345  git push -u origin milkshake-flavours
+  346  git checkout history 
+  347  git push -u origin history
+  348  clear
+  349  exit
+  350  ls
+  351  cd Desktop
+  352  ls
+  353  cd vs\ code\ files/
+  354  ls
+  355  clear
+  356  mkdir git-basic-exercises
+  357  ls
+  358  cd git-basic-exercises/
+  359  pwd
+  360  ls -a
+  361  git init
+  362  ls -a
+  363  git status
+  364  touch README.md
+  365  ls -a
+  366  git log
+  367  git add README.md 
+  368  git status
+  369  git status
+  370  git rm --cached README.md 
+  371  git status
+  372  git add README.md 
+  373  git status
+  374  git commit -m "initial commit"
+  375  git log
+  376  q
+  377  nano README.md 
+  378  cat README.md 
+  379  git status
+  380  git add README.md 
+  381  git commit -m "second commit"
+  382  ls
+  383  nano README.md 
+  384  git status
+  385  git add README.md 
+  386  git commit -m "third commit"
+  387  cat README.md 
+  388  git log
+  389  q
+  390  git checkout 38fe994f8f0d2485221d08401f64d0bde2ffe13e
+  391  cat README.md 
+  392  git checkout master
+  393  cat README.md 
+  394  git branch
+  395  git checkout -b milkshake-flavours
+  396  git branch
+  397  nano milkshakes.md
+  398  git status
+  399  git add milkshakes.md 
+  400  git commit -m "added initial flavours"
+  401  git log
+  402  git checkout master 
+  403  ls
+  404  git checkout -b history
+  405  git log
+  406  git branch
+  407  history > history.txt
+  408  ls
+  409  git add history.txt 
+  410  git commit -m "added history"
+  411  git log
+  412  git checkout milkshake-flavours 
+  413  git log
+  414  nano README.md 
+  415  git status
+  416  git add README.md 
+  417  git status
+  418  git commit -m "random readme changes"
+  419  git checkout history 
+  420  cat README.md 
+  421  rm README.md 
+  422  echo "booya" > README.md
+  423  git status
+  424  git add README.md 
+  425  git commit -m "rewrote readme"
+  426  git checkout master 
+  427  ls
+  428  git log
+  429  git checkout milkshake-flavours 
+  430  ls
+  431  git log
+  432  git checkout history 
+  433  ls
+  434  git log
+  435  git checkout master
+  436  git merge milkshake-flavours 
+  437  ls
+  438  git log
+  439  git merge history 
+  440  cat README.md 
+  441  vi README.md 
+  442  cat README.md 
+  443  git status
+  444  git add README.md 
+  445  git status
+  446  git commit -m "fixed conflicts"
+  447  ls
+  448  cat README.md 
+  449  git log
+  450  git checkout history 
+  451  git log
+  452  git checkout milkshake-flavours 
+  453  git log
+  454  git checkout history 
+  455  ls
+  456  git checkout master 
+  457  ls
+  458  git push -u origin master
+  459  git push origin master 
+  460  git push origin master 
+  461  git remote add origin https://github.com/PuseletsoSerumula/git-basic-exercises.git
+  462  git branch -M master 
+  463  git push -u origin master 
+  464  git checkout history 
+  465  git push -u origin master
+  466  ls
+  467  git push -u origin history 
+  468  clear
+  469  git checkout master 
+  470  ls
+  471  cat README.md 
+  472  git checkout milkshake-flavours 
+  473  ls
+  474  cat README.md 
+  475  git checkout history 
+  476  ls
+  477  cat README.md 
+  478  git merge master 
+  479  ls
+  480  cat README.md 
+  481  git log
+  482  ls
+  483  rm milkshakes.md 
+  484  ls
+  485  cat README.md 
+  486  git checkout master 
+  487  ls
+  488  git log
+  489  git remote add origin https://github.com/PuseletsoSerumula/git-basic-exercises.git
+  490  git push -u origin master 
+  491  git checkout history 
+  492  ls
+  493  git push -u origin history 
+  494  ls
+  495  clear
+  496  ls
+  497  git checkout milkshake-flavours 
+  498  ls
+  499  ls
+  500  exit
+  501  cd Desktop/
+  502  cd vs\ code\ files/
+  503  ls
+  504  mkdir git-basic-exercises
+  505  ls
+  506  cd git-basic-exercises/
+  507  ls -a
+  508  git init
+  509  ls -a
+  510  git status
+  511  touch README.md
+  512  ls
+  513  git status
+  514  git log
+  515  git add README.md 
+  516  git status
+  517  git rm --cached README.md 
+  518  git status
+  519  git add README.md 
+  520  git commit -m "initial commit"
+  521  nano README.md 
+  522  cat README.md 
+  523  git status
+  524  git add README.md 
+  525  git commit -m "second commit"
+  526  nano README.md 
+  527  git status
+  528  git add README.md 
+  529  git commit -m "third commit"
+  530  git log
+  531  git checkout 79381e46ecaa728dc2a54a6035b1921d40105278
+  532  cat README.md 
+  533  git checkout master 
+  534  cat README.md 
+  535  git branch
+  536  git checkout -b milkshake-flavours
+  537  git branch
+  538  nano milkshakes.md
+  539  git status
+  540  git add milkshakes.md 
+  541  git commit -m "added initial flavours"
+  542  ls
+  543  git log
+  544  git checkout master 
+  545  git checkout -b history
+  546  git log
+  547  git branch
+  548  history > history.txt
